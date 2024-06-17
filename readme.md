@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thieucong98" alt="thieucong98" /></a> </p>
 
-- 🔭 I’m currently working on [yas](https://github.com/thieucong98/yas)
+<!---- 🔭 I’m currently working on [yas](https://github.com/thieucong98/yas) -->
 
 - 🌱 I’m currently learning **Spring framework, Reactive, Message queue, Microservice**
 
-- 👯 I’m looking to collaborate on [SimpleORM](https://github.com/thieucong98/SimpleORM)
+<!--- - 👯 I’m looking to collaborate on [SimpleORM](https://github.com/thieucong98/SimpleORM) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/thieucong98](https://github.com/thieucong98)
 
